@@ -1,0 +1,200 @@
+{
+  "name": "Leon Fou Bartfort",
+  "ID": "100084722572866",
+  "mainROD": "Ultra-Quality Rod",
+  "GPS": {
+    "locate": "Vùng nước mặn",
+    "area": "Thái Bình Dương"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Mackerel",
+      "category": "Uncommon",
+      "size": 98,
+      "weight": 1000,
+      "sell": 200,
+      "image": "https://i.imgur.com/5mLe3cn.png"
+    },
+    {
+      "ID": 2,
+      "name": "Electric Eel",
+      "category": "Rare",
+      "size": 180,
+      "weight": 15000,
+      "sell": 3000,
+      "image": "https://i.imgur.com/RghJWQo.png"
+    },
+    {
+      "ID": 3,
+      "name": "Red Tail Barracuda",
+      "category": "Rare",
+      "size": 118,
+      "weight": 2400,
+      "sell": 2000,
+      "image": "https://i.imgur.com/5cMJa28.png"
+    },
+    {
+      "ID": 4,
+      "name": "Black Piranha",
+      "category": "Uncommon",
+      "size": 28,
+      "weight": 360,
+      "sell": 400,
+      "image": "https://i.imgur.com/rm3w8QQ.png"
+    },
+    {
+      "ID": 5,
+      "name": "Red Tail Barracuda",
+      "category": "Rare",
+      "size": 118,
+      "weight": 2400,
+      "sell": 2000,
+      "image": "https://i.imgur.com/5cMJa28.png"
+    },
+    {
+      "ID": 6,
+      "name": "Arapaima",
+      "category": "Epic",
+      "size": 210,
+      "weight": 150000,
+      "sell": 32000,
+      "image": "https://i.imgur.com/yV1ZmHz.png"
+    },
+    {
+      "ID": 7,
+      "name": "Bull Shark",
+      "category": "Epic",
+      "size": 400,
+      "weight": 750000,
+      "sell": 82000,
+      "image": "https://i.imgur.com/tghUIOB.png"
+    },
+    {
+      "ID": 8,
+      "name": "Mackerel",
+      "category": "Uncommon",
+      "size": 98,
+      "weight": 1000,
+      "sell": 200,
+      "image": "https://i.imgur.com/5mLe3cn.png"
+    },
+    {
+      "ID": 9,
+      "name": "Mackerel",
+      "category": "Uncommon",
+      "size": 98,
+      "weight": 1000,
+      "sell": 200,
+      "image": "https://i.imgur.com/5mLe3cn.png"
+    }
+  ],
+  "point": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Mackerel",
+      "category": "Uncommon",
+      "size": 98,
+      "weight": 1000,
+      "sell": 200,
+      "image": "https://i.imgur.com/5mLe3cn.png"
+    },
+    {
+      "ID": 2,
+      "name": "Electric Eel",
+      "category": "Rare",
+      "size": 180,
+      "weight": 15000,
+      "sell": 3000,
+      "image": "https://i.imgur.com/RghJWQo.png"
+    },
+    {
+      "ID": 3,
+      "name": "Red Tail Barracuda",
+      "category": "Rare",
+      "size": 118,
+      "weight": 2400,
+      "sell": 2000,
+      "image": "https://i.imgur.com/5cMJa28.png"
+    },
+    {
+      "ID": 4,
+      "name": "Black Piranha",
+      "category": "Uncommon",
+      "size": 28,
+      "weight": 360,
+      "sell": 400,
+      "image": "https://i.imgur.com/rm3w8QQ.png"
+    },
+    {
+      "ID": 5,
+      "name": "Red Tail Barracuda",
+      "category": "Rare",
+      "size": 118,
+      "weight": 2400,
+      "sell": 2000,
+      "image": "https://i.imgur.com/5cMJa28.png"
+    },
+    {
+      "ID": 6,
+      "name": "Arapaima",
+      "category": "Epic",
+      "size": 210,
+      "weight": 150000,
+      "sell": 32000,
+      "image": "https://i.imgur.com/yV1ZmHz.png"
+    },
+    {
+      "ID": 7,
+      "name": "Bull Shark",
+      "category": "Epic",
+      "size": 400,
+      "weight": 750000,
+      "sell": 82000,
+      "image": "https://i.imgur.com/tghUIOB.png"
+    },
+    {
+      "ID": 8,
+      "name": "Mackerel",
+      "category": "Uncommon",
+      "size": 98,
+      "weight": 1000,
+      "sell": 200,
+      "image": "https://i.imgur.com/5mLe3cn.png"
+    },
+    {
+      "ID": 9,
+      "name": "Mackerel",
+      "category": "Uncommon",
+      "size": 98,
+      "weight": 1000,
+      "sell": 200,
+      "image": "https://i.imgur.com/5mLe3cn.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Ultra-Quality Rod",
+      "price": 58800,
+      "durability": 260,
+      "countdown": 40,
+      "countdownData": 1701147705695,
+      "image": "https://i.imgur.com/9nNjibp.png"
+    }
+  ],
+  "timeRegister": "13:06:03, 15/11/2023"
+}

@@ -1,0 +1,433 @@
+{
+  "name": "Khanh Shado ⚡🌸",
+  "ID": "100090458979503",
+  "mainROD": "Frenzy Harpoon gun",
+  "GPS": {
+    "locate": "The Unknown Ocean (Additional Ver)",
+    "area": "Absolutely Patient Zone"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 2,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 3,
+      "name": "Sea Emperor Leviathan",
+      "category": "Etherial",
+      "size": 20700,
+      "sell": 21240000000,
+      "image": "https://i.imgur.com/G8xp8oM.png"
+    },
+    {
+      "ID": 4,
+      "name": "Sea Emperor Leviathan",
+      "category": "Etherial",
+      "size": 20700,
+      "sell": 21240000000,
+      "image": "https://i.imgur.com/G8xp8oM.png"
+    },
+    {
+      "ID": 5,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 6,
+      "name": "Titanus El Colossus",
+      "category": "Unknown",
+      "size": 16560,
+      "sell": 24760000000000,
+      "image": "https://i.imgur.com/edMOD5B.png"
+    },
+    {
+      "ID": 7,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 8,
+      "name": "Titanus El Colossus",
+      "category": "Unknown",
+      "size": 16560,
+      "sell": 24760000000000,
+      "image": "https://i.imgur.com/edMOD5B.png"
+    },
+    {
+      "ID": 9,
+      "name": "Titanus El Colossus",
+      "category": "Unknown",
+      "size": 16560,
+      "sell": 24760000000000,
+      "image": "https://i.imgur.com/edMOD5B.png"
+    },
+    {
+      "ID": 10,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 11,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 12,
+      "name": "Titanus El Colossus",
+      "category": "Unknown",
+      "size": 16560,
+      "sell": 24760000000000,
+      "image": "https://i.imgur.com/edMOD5B.png"
+    },
+    {
+      "ID": 13,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 14,
+      "name": "Titanus El Colossus",
+      "category": "Unknown",
+      "size": 16560,
+      "sell": 24760000000000,
+      "image": "https://i.imgur.com/edMOD5B.png"
+    },
+    {
+      "ID": 15,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 16,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 17,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 18,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 19,
+      "name": "Titanus El Colossus",
+      "category": "Unknown",
+      "size": 16560,
+      "sell": 24760000000000,
+      "image": "https://i.imgur.com/edMOD5B.png"
+    },
+    {
+      "ID": 20,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Hybrid Weapons With God's Powers",
+      "price": 10244000071973,
+      "durability": 10280800,
+      "countdown": 0,
+      "luck": 999999,
+      "countdownData": 1704617194691,
+      "image": "https://i.imgur.com/S7eXgbY.png"
+    },
+    {
+      "name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+      "price": 25187000,
+      "durability": 2910,
+      "countdown": 5,
+      "luck": 40000,
+      "countdownData": 1704787601986,
+      "image": "https://i.imgur.com/1CwNrxL.png"
+    },
+    {
+      "name": "Frenzy Harpoon gun",
+      "price": 125670000,
+      "durability": 7660,
+      "countdown": 1,
+      "luck": 100000,
+      "countdownData": 1704788718761,
+      "image": "https://i.imgur.com/XcOc4tA.png"
+    }
+  ],
+  "point": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 2,
+      "name": "Ghost Leviathan",
+      "category": "Legendary",
+      "size": 10700,
+      "sell": 2120500,
+      "image": "https://i.imgur.com/R4SDc8k.jpg"
+    },
+    {
+      "ID": 3,
+      "name": "Sea Emperor Leviathan",
+      "category": "Etherial",
+      "size": 20700,
+      "sell": 21240000000,
+      "image": "https://i.imgur.com/G8xp8oM.png"
+    },
+    {
+      "ID": 4,
+      "name": "Sea Emperor Leviathan",
+      "category": "Etherial",
+      "size": 20700,
+      "sell": 21240000000,
+      "image": "https://i.imgur.com/G8xp8oM.png"
+    },
+    {
+      "ID": 5,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 6,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 7,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 8,
+      "name": "Titanus El Colossus",
+      "category": "Unknown",
+      "size": 16560,
+      "sell": 24760000000000,
+      "image": "https://i.imgur.com/edMOD5B.png"
+    },
+    {
+      "ID": 9,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 10,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 11,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 5,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 6,
+      "name": "Titanus El Colossus",
+      "category": "Unknown",
+      "size": 16560,
+      "sell": 24760000000000,
+      "image": "https://i.imgur.com/edMOD5B.png"
+    },
+    {
+      "ID": 7,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 8,
+      "name": "Titanus El Colossus",
+      "category": "Unknown",
+      "size": 16560,
+      "sell": 24760000000000,
+      "image": "https://i.imgur.com/edMOD5B.png"
+    },
+    {
+      "ID": 9,
+      "name": "Titanus El Colossus",
+      "category": "Unknown",
+      "size": 16560,
+      "sell": 24760000000000,
+      "image": "https://i.imgur.com/edMOD5B.png"
+    },
+    {
+      "ID": 10,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 11,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 12,
+      "name": "Titanus El Colossus",
+      "category": "Unknown",
+      "size": 16560,
+      "sell": 24760000000000,
+      "image": "https://i.imgur.com/edMOD5B.png"
+    },
+    {
+      "ID": 13,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 14,
+      "name": "Titanus El Colossus",
+      "category": "Unknown",
+      "size": 16560,
+      "sell": 24760000000000,
+      "image": "https://i.imgur.com/edMOD5B.png"
+    },
+    {
+      "ID": 15,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 16,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 17,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 18,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    },
+    {
+      "ID": 19,
+      "name": "Titanus El Colossus",
+      "category": "Unknown",
+      "size": 16560,
+      "sell": 24760000000000,
+      "image": "https://i.imgur.com/edMOD5B.png"
+    },
+    {
+      "ID": 20,
+      "name": "Dragonlord Kranivarya",
+      "category": "Unknown",
+      "size": 31230,
+      "sell": 22253400000000,
+      "image": "https://i.imgur.com/JbWEwkg.png"
+    }
+  ],
+  "timeRegister": "15:45:19, 7/1/2024"
+}

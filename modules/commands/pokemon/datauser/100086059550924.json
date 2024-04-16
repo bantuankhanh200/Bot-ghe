@@ -1,0 +1,65 @@
+{
+  "name": "Trịnh Khánh",
+  "ID": "100086059550924",
+  "pet": [
+    {
+      "name": "Centiskorch",
+      "type": "Fire",
+      "HP": "150.0",
+      "Attack": "172.5",
+      "Defense": "97.5",
+      "Speed": "97.5",
+      "skill": [
+        "Flash-fire",
+        "White-smoke",
+        "Flame-body"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/851.png"
+    },
+    {
+      "name": "Gabite",
+      "type": "Dragon",
+      "HP": "68.0",
+      "Attack": "90.0",
+      "Defense": "65.0",
+      "Speed": "82.0",
+      "skill": [
+        "Sand Veil",
+        "Rough Skin"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/444.png"
+    },
+    {
+      "name": "Bewear",
+      "type": "Normal",
+      "HP": "48.0",
+      "Attack": "50.0",
+      "Defense": "32.0",
+      "Speed": "24.0",
+      "skill": [
+        "Fluffy",
+        "Klutz",
+        "Unnerve"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/760.png"
+    }
+  ],
+  "foods": [
+    {
+      "name": "𝐇𝐨𝐭 𝐏𝐨𝐭 𝐚 𝐥𝐚 𝐂𝐮𝐛𝐞 🍖",
+      "type": "Fire",
+      "HP": "20",
+      "Attack": "20",
+      "Defense": "20",
+      "Speed": "20"
+    }
+  ],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

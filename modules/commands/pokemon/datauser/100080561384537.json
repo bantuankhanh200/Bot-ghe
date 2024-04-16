@@ -1,0 +1,64 @@
+{
+  "name": "Nguyễn Tiến Đạt",
+  "ID": "100080561384537",
+  "pet": [
+    {
+      "name": "Foongus",
+      "type": "Grass",
+      "HP": "103.5",
+      "Attack": "82.5",
+      "Defense": "67.5",
+      "Speed": "22.5",
+      "skill": [
+        "Effect Spore",
+        "Regenerator"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/590.png"
+    },
+    {
+      "name": "Skiploom",
+      "type": "Grass",
+      "HP": "55.0",
+      "Attack": "45.0",
+      "Defense": "50.0",
+      "Speed": "80.0",
+      "skill": [
+        "Chlorophyll",
+        "Leaf Guard",
+        "Infiltrator"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/188.png"
+    },
+    {
+      "name": "Simipour",
+      "type": "Water",
+      "HP": "37.5",
+      "Attack": "49.0",
+      "Defense": "31.5",
+      "Speed": "50.5",
+      "skill": [
+        "Gluttony",
+        "Torrent"
+      ],
+      "coins": 5000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/516.png"
+    }
+  ],
+  "foods": [
+    {
+      "name": "𝐌𝐨𝐮𝐭𝐡 𝐖𝐚𝐭𝐞𝐫𝐢𝐧𝐠 𝐃𝐢𝐩 𝐚 𝐥𝐚 𝐂𝐮𝐛𝐞 🌽",
+      "type": "Grass",
+      "HP": "12",
+      "Attack": "12",
+      "Defense": "12",
+      "Speed": "12"
+    }
+  ],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

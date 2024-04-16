@@ -1,0 +1,18 @@
+{
+    "name": "Lê Trần Hoàng Phương",
+    "ID": "100035272900330",
+    "shield": 3,
+    "coins": 200,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 10,
+            "tree": 0,
+            "pool": 0,
+            "pet": 0
+        }
+    },
+    "spin": 19,
+    "timeRegister": "17:53:17, 22/6/2023"
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Nguyễn Gia Huy",
+    "ID": "100068586836706",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+            "category": "Unnamed",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "point": [
+        {
+            "ID": 0,
+            "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+            "category": "Unnamed",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "17:03:13, 4/9/2023"
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Phan Duongne",
+  "ID": "100085083566776",
+  "pet": [
+    {
+      "name": "Bulbasaur",
+      "type": "Grass",
+      "HP": 45,
+      "Attack": 49,
+      "Defense": 49,
+      "Speed": 45,
+      "coins": 18800,
+      "skill": [
+        "Overgrow",
+        "Chlorophyll"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/001.png"
+    },
+    {
+      "name": "Breloom",
+      "type": "Grass",
+      "HP": "24.0",
+      "Attack": "52.0",
+      "Defense": "32.0",
+      "Speed": "28.0",
+      "skill": [
+        "Effect Spore",
+        "Poison Heal",
+        "Technician"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/286.png"
+    },
+    {
+      "name": "Butterfree",
+      "type": "Bug",
+      "HP": "90.0",
+      "Attack": "67.5",
+      "Defense": "75.0",
+      "Speed": "105.0",
+      "skill": [
+        "Compound Eyes",
+        "Tinted Lens"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/012.png"
+    },
+    {
+      "name": "Swadloon",
+      "type": "Bug",
+      "HP": "55.0",
+      "Attack": "63.0",
+      "Defense": "90.0",
+      "Speed": "42.0",
+      "skill": [
+        "Leaf Guard",
+        "Chlorophyll",
+        "Overcoat"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/541.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

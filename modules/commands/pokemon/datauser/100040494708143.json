@@ -1,0 +1,26 @@
+{
+  "name": "Nguyễn Minh Tuấn",
+  "ID": "100040494708143",
+  "pet": [
+    {
+      "name": "Pikachu",
+      "type": "Electric",
+      "HP": 33.25,
+      "Attack": 52.25,
+      "Defense": 38,
+      "Speed": 85.5,
+      "coins": 20900,
+      "skill": [
+        "Static",
+        "Lightning Rod"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/025.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 1,
+    "draw": 0
+  }
+}

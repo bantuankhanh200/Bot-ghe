@@ -1,0 +1,38 @@
+{
+  "name": "Mã Tứ Thành",
+  "ID": "100067017815485",
+  "mainROD": "Ultra-Quality Rod",
+  "GPS": {
+    "locate": "Vùng nước mặn",
+    "area": "Thái Bình Dương"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    }
+  ],
+  "point": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    }
+  ],
+  "item": [
+    {
+      "name": "Ultra-Quality Rod",
+      "price": 58800,
+      "durability": 400,
+      "countdown": 40,
+      "countdownData": 1701141581872,
+      "image": "https://i.imgur.com/9nNjibp.png"
+    }
+  ],
+  "timeRegister": "18:16:20, 15/11/2023"
+}

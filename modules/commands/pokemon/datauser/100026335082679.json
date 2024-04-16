@@ -1,0 +1,26 @@
+{
+  "name": "Nguyễn Thành Công",
+  "ID": "100026335082679",
+  "pet": [
+    {
+      "name": "Spritzee",
+      "type": "Fairy",
+      "HP": "117.0",
+      "Attack": "78.0",
+      "Defense": "90.0",
+      "Speed": "34.5",
+      "skill": [
+        "Healer",
+        "Aroma Veil"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/682.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Nguyễn Chu Duyên",
+  "ID": "100069991370952",
+  "pet": [
+    {
+      "name": "Raichu",
+      "type": "Electric",
+      "HP": 60,
+      "Attack": 90,
+      "Defense": 55,
+      "Speed": 110,
+      "coins": 31500,
+      "skill": [
+        "Static",
+        "Lightning Rod"
+      ],
+      "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/026.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

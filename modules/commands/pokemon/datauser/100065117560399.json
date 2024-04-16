@@ -1,0 +1,83 @@
+{
+  "name": "Nguyên Bình",
+  "ID": "100065117560399",
+  "pet": [
+    {
+      "name": "Arceus",
+      "type": "Normal",
+      "HP": 120,
+      "Attack": 120,
+      "Defense": 120,
+      "Speed": 120,
+      "coins": 48000,
+      "skill": [
+        "Multitype"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/493.png"
+    },
+    {
+      "name": "Palkia",
+      "type": "Water",
+      "HP": "135.0",
+      "Attack": "180.0",
+      "Defense": "150.0",
+      "Speed": "150.0",
+      "skill": [
+        "Pressure",
+        "Telepathy"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/484.png"
+    },
+    {
+      "name": "Sudowoodo",
+      "type": "Rock",
+      "HP": "28.0",
+      "Attack": "40.0",
+      "Defense": "46.0",
+      "Speed": "12.0",
+      "skill": [
+        "Sturdy",
+        "Rock Head",
+        "Rattled"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/185.png"
+    },
+    {
+      "name": "Noibat",
+      "type": "Flying",
+      "HP": "40.0",
+      "Attack": "30.0",
+      "Defense": "35.0",
+      "Speed": "55.0",
+      "skill": [
+        "Frisk",
+        "Infiltrator",
+        "Telepathy"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/714.png"
+    },
+    {
+      "name": "Charizard",
+      "type": "Fire",
+      "HP": 78,
+      "Attack": 84,
+      "Defense": 78,
+      "Speed": 100,
+      "coins": 34000,
+      "skill": [
+        "Blaze",
+        "Solar Power"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/006.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

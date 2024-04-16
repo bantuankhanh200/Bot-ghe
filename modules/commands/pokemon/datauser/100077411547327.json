@@ -1,0 +1,26 @@
+{
+  "name": "Nguyễn Quốc Thắng",
+  "ID": "100077411547327",
+  "pet": [
+    {
+      "name": "Ninetales",
+      "type": "Fire",
+      "HP": "109.5",
+      "Attack": "114.0",
+      "Defense": "112.5",
+      "Speed": "150.0",
+      "skill": [
+        "Flash Fire",
+        "Drought"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/038.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

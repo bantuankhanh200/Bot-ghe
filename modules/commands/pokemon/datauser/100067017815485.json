@@ -1,0 +1,70 @@
+{
+  "name": "Mã Tứ Thành",
+  "ID": "100067017815485",
+  "pet": [
+    {
+      "name": "Barbaracle",
+      "type": "Rock",
+      "HP": "108.0",
+      "Attack": "157.5",
+      "Defense": "172.5",
+      "Speed": "102.0",
+      "skill": [
+        "Tough Claws",
+        "Sniper",
+        "Pickpocket"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/689.png"
+    },
+    {
+      "name": "Turtonator",
+      "type": "Fire",
+      "HP": "60.0",
+      "Attack": "78.0",
+      "Defense": "135.0",
+      "Speed": "36.0",
+      "skill": [
+        "Shell Armor"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/776.png"
+    },
+    {
+      "name": "Morgrem",
+      "type": "Dark",
+      "HP": "26.0",
+      "Attack": "24.0",
+      "Defense": "18.0",
+      "Speed": "28.0",
+      "skill": [
+        "Prankster",
+        "Frisk",
+        "Pickpocket"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/TuanDeepTry-14072003/pokemon-data.json/master/images/pokedex/hires/860.png"
+    },
+    {
+      "name": "Mime Jr.",
+      "type": "Psychic",
+      "HP": "10.0",
+      "Attack": "12.5",
+      "Defense": "22.5",
+      "Speed": "30.0",
+      "skill": [
+        "Soundproof",
+        "Filter",
+        "Technician"
+      ],
+      "coins": 5000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/439.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Phan Anh Tài",
+    "ID": "100074101645814",
+    "shield": 3,
+    "coins": 200,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 10,
+            "tree": 0,
+            "pool": 0,
+            "pet": 0
+        }
+    },
+    "spin": 18,
+    "timeRegister": "02:48:31, 2/11/2023"
+}

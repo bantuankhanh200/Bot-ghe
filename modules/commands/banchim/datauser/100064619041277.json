@@ -1,0 +1,18 @@
+{
+    "name": "Kiều Hiểu 💮",
+    "ID": "100064619041277",
+    "shield": 3,
+    "coins": 200,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "pool": 10,
+            "pet": 0
+        }
+    },
+    "spin": 20,
+    "timeRegister": "13:01:15, 16/11/2023"
+}

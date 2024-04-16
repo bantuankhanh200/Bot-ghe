@@ -1,0 +1,182 @@
+{
+  "name": "Heo Rừng",
+  "ID": "100037211391552",
+  "mainROD": "Light Rod",
+  "GPS": {
+    "locate": "Vùng nước ngọt",
+    "area": "Việt Nam"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Cá Trắm Đen Đại Đế",
+      "category": "Epic",
+      "size": 157,
+      "weight": 46000,
+      "sell": 12000,
+      "image": "https://i.imgur.com/Ro5XDyw.png"
+    },
+    {
+      "ID": 2,
+      "name": "Cá chép",
+      "category": "Uncommon",
+      "size": 60,
+      "weight": 5000,
+      "sell": 1400,
+      "image": "https://i.imgur.com/nGFnYVX.png"
+    },
+    {
+      "ID": 3,
+      "name": "Cá Trê Đen",
+      "category": "Rare",
+      "size": 70,
+      "weight": 5000,
+      "sell": 2500,
+      "image": "https://i.imgur.com/0Sy5rK6.png"
+    },
+    {
+      "ID": 4,
+      "name": "Cá Trôi",
+      "category": "Uncommon",
+      "size": 57,
+      "weight": 2900,
+      "sell": 600,
+      "image": "https://i.imgur.com/YUhPOaf.png"
+    },
+    {
+      "ID": 5,
+      "name": "Cá Rô Phi",
+      "category": "Common",
+      "size": 32,
+      "weight": 1200,
+      "sell": 150,
+      "image": "https://i.imgur.com/RHHZDz0.png"
+    },
+    {
+      "ID": 6,
+      "name": "Cá Trê Đại Đế",
+      "category": "Epic",
+      "size": 170,
+      "weight": 45000,
+      "sell": 22500,
+      "image": "https://i.imgur.com/e5N0nAM.png"
+    },
+    {
+      "ID": 7,
+      "name": "Cá Trôi",
+      "category": "Uncommon",
+      "size": 57,
+      "weight": 2900,
+      "sell": 600,
+      "image": "https://i.imgur.com/YUhPOaf.png"
+    },
+    {
+      "ID": 8,
+      "name": "Cá Rô Ta",
+      "category": "Common",
+      "size": 12,
+      "weight": 90,
+      "sell": 100,
+      "image": "https://i.imgur.com/PfbC9qR.png"
+    }
+  ],
+  "point": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Cá Trắm Đen Đại Đế",
+      "category": "Epic",
+      "size": 157,
+      "weight": 46000,
+      "sell": 12000,
+      "image": "https://i.imgur.com/Ro5XDyw.png"
+    },
+    {
+      "ID": 2,
+      "name": "Cá chép",
+      "category": "Uncommon",
+      "size": 60,
+      "weight": 5000,
+      "sell": 1400,
+      "image": "https://i.imgur.com/nGFnYVX.png"
+    },
+    {
+      "ID": 3,
+      "name": "Cá Trê Đen",
+      "category": "Rare",
+      "size": 70,
+      "weight": 5000,
+      "sell": 2500,
+      "image": "https://i.imgur.com/0Sy5rK6.png"
+    },
+    {
+      "ID": 4,
+      "name": "Cá Trôi",
+      "category": "Uncommon",
+      "size": 57,
+      "weight": 2900,
+      "sell": 600,
+      "image": "https://i.imgur.com/YUhPOaf.png"
+    },
+    {
+      "ID": 5,
+      "name": "Cá Rô Phi",
+      "category": "Common",
+      "size": 32,
+      "weight": 1200,
+      "sell": 150,
+      "image": "https://i.imgur.com/RHHZDz0.png"
+    },
+    {
+      "ID": 6,
+      "name": "Cá Trê Đại Đế",
+      "category": "Epic",
+      "size": 170,
+      "weight": 45000,
+      "sell": 22500,
+      "image": "https://i.imgur.com/e5N0nAM.png"
+    },
+    {
+      "ID": 7,
+      "name": "Cá Trôi",
+      "category": "Uncommon",
+      "size": 57,
+      "weight": 2900,
+      "sell": 600,
+      "image": "https://i.imgur.com/YUhPOaf.png"
+    },
+    {
+      "ID": 8,
+      "name": "Cá Rô Ta",
+      "category": "Common",
+      "size": 12,
+      "weight": 90,
+      "sell": 100,
+      "image": "https://i.imgur.com/PfbC9qR.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Light Rod",
+      "price": 400,
+      "durability": 10,
+      "countdown": 200,
+      "countdownData": 1702007914063,
+      "image": "https://i.imgur.com/HCMuton.png"
+    }
+  ],
+  "timeRegister": "22:34:08, 6/7/2023"
+}

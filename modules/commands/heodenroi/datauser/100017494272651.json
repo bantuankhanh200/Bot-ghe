@@ -1,0 +1,18 @@
+{
+    "name": "Nguyen Huynhlam",
+    "ID": "100017494272651",
+    "shield": 3,
+    "coins": 120000,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "pool": 0,
+            "pet": 0
+        }
+    },
+    "spin": 19,
+    "timeRegister": "15:01:29, 12/4/2023"
+}

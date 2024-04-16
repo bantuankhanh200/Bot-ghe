@@ -1,0 +1,56 @@
+{
+  "name": "Kiều Hiểu 💮",
+  "ID": "100064619041277",
+  "mainROD": "Ultra-Quality Rod",
+  "GPS": {
+    "locate": "Vùng nước mặn",
+    "area": "Thái Bình Dương"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Mackerel",
+      "category": "Uncommon",
+      "size": 98,
+      "weight": 1000,
+      "sell": 200,
+      "image": "https://i.imgur.com/5mLe3cn.png"
+    }
+  ],
+  "point": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Mackerel",
+      "category": "Uncommon",
+      "size": 98,
+      "weight": 1000,
+      "sell": 200,
+      "image": "https://i.imgur.com/5mLe3cn.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Ultra-Quality Rod",
+      "price": 58800,
+      "durability": 400,
+      "countdown": 40,
+      "countdownData": 1700136992088,
+      "image": "https://i.imgur.com/9nNjibp.png"
+    }
+  ],
+  "timeRegister": "18:16:35, 15/11/2023"
+}

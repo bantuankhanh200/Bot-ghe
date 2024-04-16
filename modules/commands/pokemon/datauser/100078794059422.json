@@ -1,0 +1,69 @@
+{
+  "name": "Dragneel Natsu",
+  "ID": "100078794059422",
+  "pet": [
+    {
+      "name": "Dewgong",
+      "type": "Water",
+      "HP": 34.2,
+      "Attack": 26.6,
+      "Defense": 30.4,
+      "Speed": 26.6,
+      "skill": [
+        "Thick Fat",
+        "Hydration",
+        "Ice Body"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/087.png"
+    },
+    {
+      "name": "Malamar",
+      "type": "Dark",
+      "HP": "129.0",
+      "Attack": "138.0",
+      "Defense": "132.0",
+      "Speed": "109.5",
+      "skill": [
+        "Contrary",
+        "Suction Cups",
+        "Infiltrator"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/687.png"
+    },
+    {
+      "name": "Bulbasaur",
+      "type": "Grass",
+      "HP": "45.0",
+      "Attack": "49.0",
+      "Defense": "49.0",
+      "Speed": "45.0",
+      "skill": [
+        "Overgrow",
+        "Chlorophyll"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/001.png"
+    },
+    {
+      "name": "Zeraora",
+      "type": "Electric",
+      "HP": "44.0",
+      "Attack": "56.0",
+      "Defense": "37.5",
+      "Speed": "71.5",
+      "skill": [
+        "Volt Absorb"
+      ],
+      "coins": 5000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/807.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 1,
+    "draw": 0
+  }
+}

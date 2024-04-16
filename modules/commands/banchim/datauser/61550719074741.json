@@ -1,0 +1,18 @@
+{
+    "name": "Tran Long",
+    "ID": "61550719074741",
+    "shield": 3,
+    "coins": 23000,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "pool": 0,
+            "pet": 0
+        }
+    },
+    "spin": 19,
+    "timeRegister": "17:46:28, 26/11/2023"
+}

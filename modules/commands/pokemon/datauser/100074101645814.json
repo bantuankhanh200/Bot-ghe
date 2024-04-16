@@ -1,0 +1,56 @@
+{
+  "name": "Phan Anh Tài",
+  "ID": "100074101645814",
+  "pet": [
+    {
+      "name": "Axew",
+      "type": "Dragon",
+      "HP": "18.4",
+      "Attack": "34.8",
+      "Defense": "24.0",
+      "Speed": "22.8",
+      "skill": [
+        "Rivalry",
+        "Mold Breaker",
+        "Unnerve"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/610.png"
+    },
+    {
+      "name": "Bulbasaur",
+      "type": "Grass",
+      "HP": 45,
+      "Attack": 49,
+      "Defense": 49,
+      "Speed": 45,
+      "coins": 18800,
+      "skill": [
+        "Overgrow",
+        "Chlorophyll"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/001.png"
+    },
+    {
+      "name": "Venipede",
+      "type": "Bug",
+      "HP": "15.0",
+      "Attack": "22.5",
+      "Defense": "29.5",
+      "Speed": "28.5",
+      "skill": [
+        "Poison Point",
+        "Swarm",
+        "Speed Boost"
+      ],
+      "coins": 5000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/543.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "name": "Đăng Khôi",
+  "ID": "100081099752201",
+  "pet": [
+    {
+      "name": "Regirock",
+      "type": "Rock",
+      "HP": "32.0",
+      "Attack": "40.0",
+      "Defense": "80.0",
+      "Speed": "20.0",
+      "skill": [
+        "Clear Body",
+        "Sturdy"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/377.png"
+    },
+    {
+      "name": "Marowak",
+      "type": "Ground",
+      "HP": "90.0",
+      "Attack": "120.0",
+      "Defense": "165.0",
+      "Speed": "67.5",
+      "skill": [
+        "Rock Head",
+        "Lightning Rod",
+        "Battle Armor"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/105.png"
+    },
+    {
+      "name": "Natu",
+      "type": "Psychic",
+      "HP": "40.0",
+      "Attack": "50.0",
+      "Defense": "45.0",
+      "Speed": "70.0",
+      "skill": [
+        "Synchronize",
+        "Early Bird",
+        "Magic Bounce"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/177.png"
+    },
+    {
+      "name": "Kyurem",
+      "type": "Dragon",
+      "HP": 125,
+      "Attack": 130,
+      "Defense": 90,
+      "Speed": 95,
+      "coins": 44000,
+      "skill": [
+        "Pressure"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/646.png"
+    },
+    {
+      "name": "Arceus",
+      "type": "Normal",
+      "HP": 120,
+      "Attack": 120,
+      "Defense": 120,
+      "Speed": 120,
+      "coins": 48000,
+      "skill": [
+        "Multitype"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/493.png"
+    },
+    {
+      "name": "Rayquaza",
+      "type": "Dragon",
+      "HP": 105,
+      "Attack": 150,
+      "Defense": 90,
+      "Speed": 95,
+      "coins": 44000,
+      "skill": [
+        "Air Lock"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/384.png"
+    },
+    {
+      "name": "Gorebyss",
+      "type": "Water",
+      "HP": "82.5",
+      "Attack": "126.0",
+      "Defense": "157.5",
+      "Speed": "78.0",
+      "skill": [
+        "Swift Swim",
+        "Hydration"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/368.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

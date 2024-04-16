@@ -1,0 +1,41 @@
+{
+  "name": "Lê Vỹ",
+  "ID": "100076908264859",
+  "pet": [
+    {
+      "name": "Diggersby",
+      "type": "Normal",
+      "HP": "85.04.25",
+      "Attack": "56.02.8",
+      "Defense": "77.03.85",
+      "Speed": "78.03.9",
+      "skill": [
+        "Pickup",
+        "Cheek Pouch",
+        "Huge Power"
+      ],
+      "coins": 10500,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/660.png"
+    },
+    {
+      "name": "Bulbasaur",
+      "type": "Grass",
+      "HP": 45,
+      "Attack": 49,
+      "Defense": 49,
+      "Speed": 45,
+      "coins": 18800,
+      "skill": [
+        "Overgrow",
+        "Chlorophyll"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/001.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 1,
+    "lose": 0,
+    "draw": 0
+  }
+}
